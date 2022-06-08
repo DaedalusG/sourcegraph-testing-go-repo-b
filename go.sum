@@ -1,0 +1,4 @@
+github.com/sourcegraph-testing/go-repo-c v0.0.0-20220608090848-be237e109171 h1:O/bZTza+3JjoecPcVumOm+RzPz4vQl6lhKpVfa8UQ2U=
+github.com/sourcegraph-testing/go-repo-c v0.0.0-20220608090848-be237e109171/go.mod h1:ujsSVzjeigRk+ZrRv6PbONKnE7W771G39pzJxrTDlbI=
+github.com/sourcegraph-testing/go-repo-d v0.0.0-20220608090556-5ae7ccac1cee h1:1pAjuhNJJrfspeRb/vHXSn7NJsQMzMkJkLnz5qpsWMs=
+github.com/sourcegraph-testing/go-repo-d v0.0.0-20220608090556-5ae7ccac1cee/go.mod h1:3KvynPfsvS8bps8pSGQOe7TETs8Dug4rgtS+89pdP9Y=
